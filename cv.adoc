@@ -1,0 +1,69 @@
+:icons:
+:imagesdir: src/img
+:toc: macro
+:toc-title: Contents
+:toclevels: 3
+
+[[andreas-gajdosik]]
+= Andreas Gajdosik: CV
+
+I am coder, tester and new media artist.
+I'm interested in open source, exploration of systems and collaborative work.
+My hobbies are (artistic) software development, eurorack modular synthesizers and DIY soldering.
+Seems like I love to dig in things.
+
+E-mail: andreas.gajdosik@gmail.com +
+Mobile: link:tel://+420-736-153-332[+420 736 153 332] +
+GitHub: link:https://github.com/agajdosi[@agajdosi]
+
+== Work positions
+
+* Jul 2018 – Mar 2019: Quality Assurance Engineer on Container Development Kit, Red Hat
+* Sep 2016 – Jun 2018: Associate Quality Assurance Engineer on Container Development Kit, Red Hat
+
+== Education
+
+- 2019-now: Doctoral study - Brno University of Technology, Faculty of Fine Arts
+- 2012-2018: BcA., MgA. - Brno University of Technology, Faculty of Fine Arts
+
+== Skills
+
+[cols="1,1,1"]
+|===
+|Languages |Technology |Interests
+
+|⬛⬛⬛⬛⬜ Golang
+|⬛⬛⬛⬛⬜ Jenkins
+|⬛⬛⬛⬛⬜ Testing
+
+|⬛⬛⬛⬛⬜ Gherkin
+|⬛⬛⬛⬛⬜ Jira
+|⬛⬛⬛⬛⬜ BDD
+
+|⬛⬛⬛⬜⬜ Python
+|⬛⬛⬛⬜⬜ Git
+|⬛⬛⬛⬛⬜ Agile
+
+|⬛⬛⬛⬜⬜ English
+|⬛⬛⬛⬜⬜ Markup, Asciidoc
+|⬛⬛⬛⬜⬜ Automation
+
+|⬛⬛⬜⬜⬜ JS, HTML, CSS
+|⬛⬛⬜⬜⬜ Linux
+|⬛⬛⬛⬜⬜ CLI development
+
+|⬛⬜⬜⬜⬜ SQL
+|⬛⬜⬜⬜⬜ Virtualization
+|⬛⬛⬜⬜⬜ UX
+
+|===
+
+=== Projects
+
+- link:https://github.com/minishift/minishift/tree/master/test/integration[minishift/test/integration] - integration test framework for CLI application Minishift/Red Hat Container Development Kit, written in Golang and Gherkin.
+- link:https://github.com/agajdosi/tauto[Tauto] - experimental CLI for automation of Twitter interactions via web GUI, written in Golang using Chrome debug protocol, Cobra CLI framework, SQLite. 
+//- link:https://github.com/agajdosi/diplomantky.cz[Diplomantky.cz] - static web page, stack: Gohugo static page generator, HTML, CSS  
+- link:https://github.com/agajdosi/nejvyzkum[Nejvyzkum] - interactive web app, written in Python using Tornado web framework, SQLite, JS, WebSockets, HTML, CSS.
+- link:https://github.com/agajdosi/unslaving-bot[Unslaving-bot] - automated bot for removal of master/slave terminology from GitHub, search for words via GH Rest API, automated commit and PR creation, written Golang.
+- link:https://github.com/agajdosi/unhuman-resources[Unhuman Resources] - web server mirroring idnes.cz and lidovky.cz news webs, with realtime text manipulation, written in Python using Tornado web framework, Beautiful soup, regexp.
+- link:https://github.com/agajdosi/nomin[Nomin] - MA thesis: GUI app for sending emails via SMTP, written in Golang using Proton framework.
